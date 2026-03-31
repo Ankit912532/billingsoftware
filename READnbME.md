@@ -51,4 +51,4 @@ Follow the in-app instructions under the **Google Sheets** tab to connect a serv
 | `google_credentials.json` | Google service account key (gitignored, add your own) |
 
 ## License
-MIT
+[MIT](https://github.com/Ankit912532)
