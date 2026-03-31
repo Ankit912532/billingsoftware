@@ -1,0 +1,22 @@
+{
+  "company_name": "Your Company Name",
+  "legal_name": "Legal Owner Name",
+  "trade_name": "Trade Name",
+  "address": "Your Address, City, State - PIN",
+  "phone": "",
+  "email": "",
+  "gstin": "",
+  "udyam": "",
+  "bank_name": "Your Bank Name",
+  "account_name": "Your Company Name",
+  "account_no": "",
+  "account_type": "Current A/C",
+  "ifsc": "",
+  "branch": "Branch Name (Branch Code: XXXXXX)",
+  "logo_path": "logo.jpg",
+  "cgst_rate": "2.5",
+  "sgst_rate": "2.5",
+  "gsheet_enabled": false,
+  "gsheet_id": "",
+  "gsheet_tab": "Bills"
+}
